@@ -10,7 +10,7 @@ class vinodh
         // vin.Question3();
         // vin.Question4AndQuestion5();
         // vin.Question6();
-        // vin.Question7();
+        vin.Question7();
         // vin.Question8AndQuestion9();
         // vin.Question9();
         // vin.Question10();
