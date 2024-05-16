@@ -4,6 +4,7 @@ class vinodh
     public static void Main()
     {
         Vin vin=new Vin();
+
         // vin.Question1();
         // vin.Question2();
         // vin.Question3();
